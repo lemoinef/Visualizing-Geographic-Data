@@ -25,7 +25,7 @@ jupyter notebook visualizing_geo_data.ipynb
 
 or
 ```
-ipython notebook =visualizing_geo_data.ipynb
+ipython notebook visualizing_geo_data.ipynb
 ```
 This will open the Jupyter Notebook software and project file in your web browser.
 
