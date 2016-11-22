@@ -2,6 +2,9 @@
 
 In fields like meteorology and and climatology, geographic data plays a crucial role in understanding the Earth's systems. Besides its prevalence in scientific fields, geographic data powers our mapping and navigation software like Google Maps and allows us to see where our friends and family are on Facebook and Foursquare. Geographic data like latitudes and longitudes are difficult to understand using data charts and plots. To explore this kind of data, we need to learn how to visualize the data on maps.
 
+## Context 
+This project is part of Dataquest.io guided projects. Datasets were provided and we were asked to make data exploration in Jupyter Notebook. Each project were constituted of 6 to 8 steps of exploration, analysis, visualization and sometimes machine learning algorithm implementation. Additional steps were given at the end of each project to advance our exploration. The text cells between each code cells are part of the instructions that were provided. It is slightly retouched. For example, instead of 'you', it has been replace by 'we' to improve readability. 
+
 ## Install
 This project requires Python 3 and the following Python libraries installed:
 
